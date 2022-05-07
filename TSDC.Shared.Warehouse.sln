@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSDC.Core.Domain.Warehouse", "TSDC.Core.Domain.Warehouse\TSDC.Core.Domain.Warehouse.csproj", "{70EBE0A3-7285-47C8-9B40-DA86DF5877C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSDC.SharedMvc.Warehouse", "TSDC.SharedMvc.Warehouse\TSDC.SharedMvc.Warehouse.csproj", "{87C2BA4F-427B-48DC-A97C-97CDDFAE027D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70EBE0A3-7285-47C8-9B40-DA86DF5877C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EBE0A3-7285-47C8-9B40-DA86DF5877C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EBE0A3-7285-47C8-9B40-DA86DF5877C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EBE0A3-7285-47C8-9B40-DA86DF5877C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C2BA4F-427B-48DC-A97C-97CDDFAE027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C2BA4F-427B-48DC-A97C-97CDDFAE027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C2BA4F-427B-48DC-A97C-97CDDFAE027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C2BA4F-427B-48DC-A97C-97CDDFAE027D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3586D9E-AD07-4226-8DD8-036CCF76693F}
+	EndGlobalSection
+EndGlobal
